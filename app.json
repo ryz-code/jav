@@ -3,6 +3,7 @@
     "description": "A Telegram Files Store Bot in Pyrogram by @LazyDeveloperr",
     "keywords": [
         "telegram",
+        "web",
         "files",
         "store",
         "bot"
@@ -66,9 +67,9 @@
         }
     ],
     "formation": {
-        "worker": {
+        "web": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
